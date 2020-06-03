@@ -1,4 +1,4 @@
-# Oink, oink little pigg
+# Oink, oink little piggy
 
 Fun little distraction script I wrote to call a pig latin script with python
 
